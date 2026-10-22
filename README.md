@@ -11,3 +11,4 @@ Play Connect Four in your browser: <https://rehanmohammed2609.github.io/connect4
 - Click after a win or draw to start another game.
 
 The game runs in the browser using WebAssembly. Its playable build and client-side code are downloaded to your browser.
+The game canvas scales to the available viewport so all six rows fit on screen.
